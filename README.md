@@ -1,2 +1,5 @@
-# Midas
-Joitakin tyoasemena tunauksia talteen
+## Midas
+Joitakin tyoasemena _tunauksia_ talteen
+
+---
+This mostly contains zsh, readline, vim, screen, etc configs.
